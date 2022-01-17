@@ -1,4 +1,4 @@
-import math
+# import math
 
 # name = input('What is your name ')
 # weight = input('Weight(pounds) ')
@@ -205,11 +205,11 @@ import math
     
     
 #  EXERCISE 4 RANDOM NUMBERS
-def only_ints(a,b):
-    if type(a) == int and type(b) == int:
-        return True
-    else:
-        return False
+# def only_ints(a,b):
+#     if type(a) == int and type(b) == int:
+#         return True
+#     else:
+#         return False
     
-print(only_ints(1,"a"))
+# print(only_ints(1,"a"))
     
