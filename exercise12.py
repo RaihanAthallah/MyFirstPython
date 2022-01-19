@@ -10,7 +10,7 @@
 # However div_3(5) is False because 5/3 leaves 2 
 # as a remainder
 
-
+#  EXERCISE 12 DIVISIBLE BY 3
 def div_3(a):
     if a%3 == 0:
         return True
