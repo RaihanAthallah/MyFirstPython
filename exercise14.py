@@ -18,6 +18,7 @@
 def palindrome(word):
     reverse = reversed(word)
     result = ''.join(reverse)
+    # print(result)
     if result == word:
         return True
     else:

@@ -16,6 +16,7 @@
 def flatten(list):
     flatten_list = []
     for i in list:
+        # print(i)
         flatten_list += i
     return flatten_list
         
